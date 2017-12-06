@@ -1,0 +1,1 @@
+A simple BMI calculator in JavaScript.
